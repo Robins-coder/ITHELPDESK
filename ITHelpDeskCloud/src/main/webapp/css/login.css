@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+body {
+  background-color: lightblue;
+}
+
+
+.loginpage{
+	background-color: green;
+	height: 200px;
+	width: 250px;	
+    margin-left: 520px;
+    margin-top: 250px;
+    border-radius: 10px;
+    border-bottom-style: inset;
+    border-color: red;
+}
+
+
+#submit
+{
+	margin-left: 90px
+}
+
+.feild
+{
+  margin-left: 25px	
+}

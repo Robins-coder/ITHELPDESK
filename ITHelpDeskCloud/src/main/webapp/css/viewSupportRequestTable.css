@@ -1,0 +1,77 @@
+@charset "ISO-8859-1";
+
+
+.viewSupportRequestTable-Header
+{
+	margin-left: 50px;
+   
+}
+
+.viewSupportRequestTable.table,td,th
+{
+	border: 1px solid white;
+    width: 841px;
+    background-color: black;
+    color: blanchedalmond;
+    cursor: pointer;
+}
+
+
+.modal {
+ display:none;	
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #001f3f;
+  color:white;
+  border-radius:10px;
+  margin: 15%; /* 15% from the top and centered */
+  padding: 25px;
+  border: 1px solid #888;
+  width: 30%; /* Could be more or less, depending on screen size */
+  border-left-style: inset;
+  border-color: green;
+  text-shadow: navy;
+  margin-left: 350px;
+  font-size: 20px;
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+
+
+.Updatemodal {
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+
